@@ -51,6 +51,7 @@ public class Maiin extends javax.swing.JFrame {
         });
 
         txt_area.setColumns(20);
+        txt_area.setFont(new java.awt.Font("Mongolian Baiti", 0, 14)); // NOI18N
         txt_area.setRows(5);
         jScrollPane2.setViewportView(txt_area);
 
